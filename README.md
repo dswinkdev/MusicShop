@@ -1,7 +1,7 @@
 # MusicShop
 A Java application managing and displaying detailed artist profiles with sales data and tour status.
 
-#Initial Output
+# Initial Output
 🎤 Artist: Vibez
 💿 Album: Alternative
 🎶 Genre: Chicago, IL
